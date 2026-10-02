@@ -5,13 +5,14 @@ This project investigates Mode-I fracture behaviour of a Compact Tension (CT) sp
 
 The main objective is to evaluate the Mode-I stress intensity factor and compare analytical and numerical results.
 
-Objectives
-Develop an analytical model for the CT specimen
-Calculate the Mode-I stress intensity factor
-Develop a finite element model of the cracked specimen
-Investigate the effect of mesh refinement near the crack tip
-Compare analytical and finite element results
-Assess the accuracy of the numerical solution
+Objectives : 
+1.Develop an analytical model for the CT specimen
+2.Calculate the Mode-I stress intensity factor
+3.Develop a finite element model of the cracked specimen
+4.Investigate the effect of mesh refinement near the crack tip
+5.Compare analytical and finite element results
+6.Assess the accuracy of the numerical solution
+
 Methods
 
 The project will combine:
@@ -21,6 +22,8 @@ Finite Element Analysis (FEA)
 Python-based numerical calculations
 Mesh convergence analysis
 Analytical and numerical validation
+
+
 Project Workflow
 
 Step 1 .  Analytical Model

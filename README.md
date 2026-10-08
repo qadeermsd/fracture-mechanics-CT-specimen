@@ -18,7 +18,9 @@ Methods
 The project will combine:
 
 a. Linear Elastic Fracture Mechanics (LEFM)
+
 b. Finite Element Analysis (FEA)
+
 c. Validation of Analytical Model by Numerical Model 
 
 

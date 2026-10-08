@@ -17,11 +17,9 @@ Methods
 
 The project will combine:
 
-Linear Elastic Fracture Mechanics (LEFM)
-Finite Element Analysis (FEA)
-Python-based numerical calculations
-Mesh convergence analysis
-Analytical and numerical validation
+a. Linear Elastic Fracture Mechanics (LEFM)
+b. Finite Element Analysis (FEA)
+c. Validation of Analytical Model by Numerical Model 
 
 
 Project Workflow
